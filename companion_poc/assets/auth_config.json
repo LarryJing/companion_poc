@@ -1,0 +1,16 @@
+{
+  "client_id" : "0cc41bc4-ede1-4713-a2b3-3803ff2df44c",
+  "authorization_user_agent" : "DEFAULT",
+  "redirect_uri" : "msauth://com.example.companion_poc.host/2jmj7l5rSw0yVb%2FvlWAYkK%2FYBwk%3D",
+  "ios_redirect_uri": "msauth.com.example.companionPoc://auth",
+  "account_mode": "SINGLE",
+  "broker_redirect_uri_registered": false,
+  "authorities" : [
+    {
+      "type": "AAD",
+      "audience": {
+        "type": "AzureADMyOrg",
+        "tenant_id": "67bff79e-7f91-4433-a8e5-c9252d2ddc1d"
+      }
+    }]
+}
